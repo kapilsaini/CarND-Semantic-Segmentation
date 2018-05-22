@@ -25,8 +25,8 @@ The goal of this project is to classify pixels of an image to find the drivable 
 
 ## Sample outputs
 
-[Img1](./output/um_000015.png)
-[Img2](./output/um_000018.png)
-[Img3](./output/um_000024.png)
-[Img4](./output/um_000031.png)
-[Img5](./output/um_000034.png)
+![Img1](./output/um_000015.png)
+![Img2](./output/um_000018.png)
+![Img3](./output/um_000024.png)
+![Img4](./output/um_000031.png)
+![Img5](./output/um_000034.png)
